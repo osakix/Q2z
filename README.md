@@ -26,4 +26,3 @@ This repository is a lightweight demo, not a complete tutorial for every program
 
 ## Tutorials
 
-Sample tutorials for Python, JavaScript, and C++ live in the `tutorials` directory. Open `tutorials/index.html` to browse them. These markdown files walk through simple examples for beginners, intermediate users, and advanced topics. Feel free to create additional files to cover more languages.
