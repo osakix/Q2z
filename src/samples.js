@@ -67,7 +67,7 @@ export const samples = {
   icon: 'procedure main() write("Hello World") end',
   idl: 'PROGRAM Hello\n PRINT, "Hello World"\nEND',
   io: 'writeln("Hello World")',
-  j: 'echo ''Hello World''',
+  j: "echo 'Hello World'",
   julia: 'println("Hello World")',
   labview: '-- graphical language snippet',
   'ladder logic': '-- PLC ladder example',
