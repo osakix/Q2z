@@ -23,3 +23,7 @@ The page will be available at `http://localhost:5173` by default.
 Language samples live in `src/samples.js` as an exported object. Add a new key with the language name and a string containing the Hello World code for that language.
 
 This repository is a lightweight demo, not a complete tutorial for every programming language.
+
+## Tutorials
+
+Sample tutorials for Python and JavaScript live in the `tutorials` directory. These markdown files walk through simple examples for beginners, intermediate users, and advanced topics. Feel free to create additional files to cover more languages.
